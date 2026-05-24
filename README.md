@@ -1,58 +1,55 @@
-# Hi there, I'm Guillermo Pereyo 👋
+# Hi there, I'm Guillermo Pereyò Castellví 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpereyo@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./guillermo_pereyo_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-pereyo)
 
-## About Me
+## 🚀 About Me
 
-*  🎓 Full-stack Engineer graduated from Holberton Coding School
+I am a Software Engineer with a strong background in full-stack development, data analytics, and a growing passion for **Rust**. My experience ranges from automating enterprise-level regression tests and data pipelines at **Lockheed Martin** to building interactive business intelligence dashboards and streamlining data processes.
 
+- 🎓 **Education**: CS & Software Engineering Certificate and Machine Learning Course (Holberton School) | Business Analytics coursework (Fairfield University).
+- 🌍 **Location**: San Juan, Puerto Rico.
+- 🗣️ **Languages**: Bilingual English & Spanish.
 
-## Languages
+## 🛠️ Technical Skills
 
+### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003049.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Frameworks, Platforms and Libraries
-
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### Tools & Platforms
+![Tableau](https://img.shields.io/badge/Tableau-E976EF?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-0162a1?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Editors
-
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Operating Systems
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
 
-### Most used Repositories
+## 💼 Professional Experience
 
-| Repository | Description |
-| --- | --- |
-| [holbertonschool-higher_level_programming](https://github.com/GuilleP2018/holbertonschool-higher_level_programming) | High-Level Programming involves a programming language with strong abstraction from the details of the computer. In contrast to low-level programming, it may use natural language elements, be easier to use, or may automate significant areas of computing systems, making the process of developing a program simpler and more understandable than when using a lower-level language. The amount of abstraction provided defines how "high-level" a programming language is. |
-| [holbertonschool-low_level_programming](https://github.com/GuilleP2018/holbertonschool-low_level_programming) | Low-Level Programming is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map that are structurally similar to processor's instructions. Generally, this refers to either machine code or assembly language. Because of the low abstraction between the language and machine language, low-level languages are sometimes described as being "close to the hardware". Programs written in low-level languages tend to be relatively non-portable, due to being optimized for a certain type of system architecture. |
+- **Software Engineer | Lockheed Martin** (2024 – 2026)
+  - Developed automated regression test suites to improve release reliability.
+  - Built Apache Airflow DAGs for data pipeline automation.
+  - Optimized SQL queries and translations (DB2) for accurate reporting.
+  - Enhanced Tableau dashboards for logistics stakeholders.
+- **Business Analyst Intern | Evertec** (2022)
+  - Restructured and standardized critical Excel data sheets for leadership.
+- **Business Analytics Intern | Banco Popular** (2021)
+  - Deployed interactive PowerBI dashboards for wealth management production metrics.
 
-### Major projects worked on at school
-  
-| Project name | Description |
-| --- | --- |
-|[Printf](https://github.com/GuilleP2018/holbertonschool-printf)| This program is designed to emulate the printf function in C |
-|[Simple_Shell](https://github.com/GuilleP2018/holbertonschool-simple_shell)| This program is designed to replicate the abilities of a simple shell |
-|[AirBnB Clone](https://github.com/JRMC-PR/holbertonschool-AirBnB_clone_v4)| HolbertonBnB is a comprehensive web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. Additionally, it features a console interpreter to work with the classes and interact with both the DB and JSON storages. |
+## 📂 Key Projects
+
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [AirBnB Clone](https://github.com/JRMC-PR/holbertonschool-AirBnB_clone_v4) | End-to-end web app with REST API, MySQL ORM, and custom console. | Python, MySQL, HTML/CSS |
+| [Linear Regression](https://github.com/GuilleP2018/linear_regression_rust) | Implementation of linear regression to explore Rust's capabilities. | Rust |
+| [Todo CLI](https://github.com/GuilleP2018/todo_cli) | Command-line task manager. | Rust |
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GuilleP2018&show_icons=true&locale=en&layout=compact&theme=radical)
