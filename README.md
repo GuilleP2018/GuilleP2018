@@ -1,7 +1,7 @@
 # Hi there, I'm Guillermo Pereyò Castellví 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gpereyo@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./guillermo_pereyo_resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Guillermo-Pereyo-Resume-2026.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-pereyo)
 
 ## 🚀 About Me
